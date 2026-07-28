@@ -11,6 +11,6 @@ I am a software engineer specializing in **C++, Rust, and Go**, with **5 years o
   - [CometBFT](https://github.com/cometbft/cometbft/pulls/songgaoye) – contributions via PRs
   - [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/pulls/songgaoye) – contributions via PRs
 - **Core expertise**: Distributed storage systems, EVM-compatible chains, Cosmos ecosystem, and Aptos
-- **Currently**: Actively seeking new opportunities in the blockchain/web3 space
+- **Currently**: Actively seeking new opportunities in the blockchain/web3 or AI infra space
 
 📫 **Contact**: [nkysggsy@gmail.com](mailto:nkysggsy@gmail.com)
